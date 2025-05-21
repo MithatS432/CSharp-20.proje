@@ -1,2 +1,2 @@
-# CSharp-20.proje
+# C#-20.proje
 Erişim Belirleyiciler2
